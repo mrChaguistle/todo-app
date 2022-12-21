@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Tarea uno",
+      "description": "Esto es una tarea uno sin BD",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "title": "Tarea dos",
+      "description": "Esto es una tarea dos sin BD",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "Tarea tres",
+      "description": "Esto es una tarea tres sin BD",
+      "completed": false
+    },
+    {
+      "title": "Tarea cuatro",
+      "description": "Esto es una traea cuatro sin BD",
+      "completed": false,
+      "id": 4
+    },
+    {
+      "title": "Tarea cinco",
+      "description": "Esto es una tarea cinco sin BD",
+      "completed": true,
+      "id": 5
+    }
+  ]
+}
